@@ -1,5 +1,7 @@
 # Let's Flutter Before 2022 Ends
 
+Note: We have a dedicated page for this event. [Click Here](https://github.com/FlutterKozhikode/Flutter-Before-2022-Ends)
+
 ![Let's Flutter Before 2022 Ends](./assets/Let's%20Flutter%20Before%20The%20Year%20Ends.jpg)
 
 We hosted our last meetup of 2022 on 31st December. [Aswin Gopinathan](https://github.com/infiniteoverflow) & [Sreelal TS](https://github.com/HeySreelal) gave a talks on Flutter. 
