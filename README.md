@@ -2,7 +2,7 @@
 
 ## Latest 📣
 
-- 🆕 Flutter Forward Extended - On 04th February 2023
+- 🆕 [Flutter Ignite](./Flutter-Ignite/) - On 06th May 2023
 
 <br>
 
@@ -12,6 +12,7 @@
 
 | Event 👨🏻‍💻 | Date 📆 | Link 🔗 | 
 | --- | --- | --- |
+| [Flutter Ignite](./Flutter-Ignite/) | 06 May 2023 | https://gdg.community.dev/e/mz68r9/ |
 | Flutter Forward Extended | 04 February 2023 | https://www.meetup.com/flutterkozhikode/events/291183725/ |
 | [Let's Flutter Before 2022 Ends](./Let's%20Flutter%20Before%202022%20Ends/) | 31 December 2022 | https://www.meetup.com/flutterkozhikode/events/290593188/ | 
 | [Flutter Fest Kozhikode](Flutter-Fest-2022/README.md) | 24 April 2022 | https://bit.ly/flutterfestkkd-2022 | 
