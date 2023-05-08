@@ -1,6 +1,6 @@
 # Flutter Kozhikode Events 👨🏻‍💻
 
-## 📣 Upcoming 
+## 📣 Latest 
 
 - 🆕 [Flutter Ignite](./Flutter-Ignite/) - On 06th May 2023
 

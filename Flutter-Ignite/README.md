@@ -1,5 +1,35 @@
 # Flutter Ignite: A Program to Spark Your Skills 
 
+
+<div align="center">
+    <img src="./assets/Group-Photo.jpeg" width="90%">
+    <br><br>
+    <img src="./assets/IMG_20230506_123832.jpg" width="30%">
+    <img src="./assets/IMG_20230506_124036.jpg" width="30%">
+    <img src="./assets/IMG_20230506_124251.jpg" width="30%">
+</div>
+
+<br>
+
+## ❤️ Long Story Short 
+
+This is one of the best events we have ever hosted. We had 40+ attendees and the event was a huge success. 
+
+Speakers: [Muhammed Basil](https://www.linkedin.com/in/muhammed-basil-0a2b691b2/) and [Uvais Mohammad](https://www.linkedin.com/in/uvais-mohammad-024440164/).
+
+Follow them on LinkedIn:
+
+<a href="https://www.linkedin.com/in/muhammed-basil-0a2b691b2/"><img src="https://img.shields.io/badge/Muhammed%20Basil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/uvais-mohammad-024440164/"><img src="https://img.shields.io/badge/Uvais%20Mohammad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+## 📚 Resources
+
+Checkout the resources that we have shared during the event here:
+<!-- Resources button -->
+<a href="https://ionian-starburst-cf3.notion.site/Flutter-Ignite-Notes-8a6e88be56ee4217acff528a8430477f"><img src="https://img.shields.io/badge/Resources-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+
+<hr>
+
 ## 📝 TL;DR
 Ready to ignite your Flutter skills? Register now for Flutter Ignite and join us for an exciting event that'll take your skills to the next level! Don't miss out on this opportunity to network with other developers and gain valuable insights from our expert speakers.
 
