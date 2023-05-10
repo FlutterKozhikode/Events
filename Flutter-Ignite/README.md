@@ -30,7 +30,9 @@ Follow them on LinkedIn:
 
 Checkout the resources that we have shared during the event here:
 
-<a href="https://ionian-starburst-cf3.notion.site/Flutter-Ignite-Notes-8a6e88be56ee4217acff528a8430477f"><img src="https://img.shields.io/badge/Resources-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="https://ionian-starburst-cf3.notion.site/Flutter-Ignite-Notes-8a6e88be56ee4217acff528a8430477f">
+<img src="https://img.shields.io/badge/Resources-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
 
 <hr>
 
