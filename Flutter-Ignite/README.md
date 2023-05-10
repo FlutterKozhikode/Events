@@ -18,7 +18,13 @@ Speakers: [Muhammed Basil](https://www.linkedin.com/in/muhammed-basil-0a2b691b2/
 
 Follow them on LinkedIn:
 
-<a href="https://www.linkedin.com/in/muhammed-basil-0a2b691b2/"><img src="https://img.shields.io/badge/Muhammed%20Basil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.linkedin.com/in/uvais-mohammad-024440164/"><img src="https://img.shields.io/badge/Uvais%20Mohammad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/muhammed-basil-0a2b691b2/">
+<img src="https://img.shields.io/badge/Muhammed%20Basil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/uvais-mohammad-024440164/">
+<img src="https://img.shields.io/badge/Uvais%20Mohammad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ## 📚 Resources
 
